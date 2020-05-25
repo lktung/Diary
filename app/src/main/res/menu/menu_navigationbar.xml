@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sigin_nav"
+        android:title="Sign in"
+        android:icon="@drawable/googleg_standard_color_18"/>
+    <item
+        android:id="@+id/logout_nav"
+        android:title="Logout"
+        android:icon="@drawable/logout"/>
+</menu>

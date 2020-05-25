@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/date_navBottom"
+        android:icon="@drawable/ic_date"
+        android:title="@string/title_date"/>
+    <item
+        android:id="@+id/time_navBottom"
+        android:icon="@drawable/ic_access_time"
+        android:title="@string/title_time"/>
+    <item
+        android:id="@+id/color_navBottom"
+        android:icon="@drawable/ic_color"
+        android:title="@string/title_color"/>
+    <item
+        android:id="@+id/delete_navBottom"
+        android:icon="@drawable/ic_delete"
+        android:title="@string/title_delete"/>
+</menu>

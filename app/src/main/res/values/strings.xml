@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="title_date">Date</string>
+    <string name="title_time">Time</string>
+    <string name="title_color">color</string>
+    <string name="title_delete">Delete</string>
+</resources>
